@@ -1,0 +1,1403 @@
+﻿{
+	"lightLevel": 0.27178502082824707,
+	"houseSize": "Small",
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Minimalist",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Wall",
+			"name": "Storm Blue Interior Wall",
+			"itemId": 33248,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Flat Ceiling Lamp",
+			"itemId": 44872,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Marble Flooring",
+			"itemId": 8014,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "White Interior Wall",
+			"itemId": 17034,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Light",
+			"name": "Flat Ceiling Lamp",
+			"itemId": 44872,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Chamber Door",
+			"itemId": 0,
+			"color": ""
+		}
+	],
+	"exteriorScale": 100,
+	"exteriorFixture": [
+		{
+			"level": "",
+			"type": "Exterior Wall",
+			"name": "Small Cafe Walls",
+			"itemId": 35812,
+			"color": "92816CFF"
+		}
+	],
+	"exteriorFurniture": [
+		{
+			"itemId": 6600,
+			"name": "私用以太之光",
+			"transform":
+			{
+				"location": [ -1095, -1040, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 46120,
+			"name": "La Noscean Orange Tree",
+			"transform":
+			{
+				"location": [ -1875, 135, 10 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"metaData":
+	{
+		"version": 144
+	},
+	"interiorScale": 100,
+	"interiorFurniture": [
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ -70, -220, 300 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ -70, -210, 300 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ -570, 385, -110 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ -315, 555, -110 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 44895,
+			"name": "抱石攀岩隔离墙",
+			"transform":
+			{
+				"location": [ -325, -245, 350 ],
+				"rotation": [ 0, -0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ 630, -40, -170 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ 415, 555, -110 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35571,
+			"name": "木制百叶帘",
+			"transform":
+			{
+				"location": [ 599.99999523162842, 159.99999993916023, 460 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"itemId": 38606,
+			"name": "原生态木制横梁",
+			"transform":
+			{
+				"location": [ 545, 115, 55 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 44895,
+			"name": "抱石攀岩隔离墙",
+			"transform":
+			{
+				"location": [ -15, -580, 0 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35575,
+			"name": "仿制木屋阁楼天窗",
+			"transform":
+			{
+				"location": [ 595, -405, -100 ],
+				"rotation": [ -3.3087224502121151e-24, -3.3087224502121151e-24, 0.70710678118654757, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 32236,
+			"name": "画作展示柜",
+			"transform":
+			{
+				"location": [ -20, -420, 330 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 44895,
+			"name": "抱石攀岩隔离墙",
+			"transform":
+			{
+				"location": [ 385, -580, 0 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35559,
+			"name": "双软垫",
+			"transform":
+			{
+				"location": [ 30, -455, 375 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35571,
+			"name": "木制百叶帘",
+			"transform":
+			{
+				"location": [ 599.99999523162842, 434.99999993916026, 410 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"itemId": 35572,
+			"name": "钢管舞杆",
+			"transform":
+			{
+				"location": [ -60, -215, -310 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 35573,
+			"name": "仿古置物架",
+			"transform":
+			{
+				"location": [ 20, -235, 200 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -395, -770, 0 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -725, 635, 0 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29680,
+			"name": "红木沟渠",
+			"transform":
+			{
+				"location": [ 255, -220, 300 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35572,
+			"name": "钢管舞杆",
+			"transform":
+			{
+				"location": [ 105, -215, -310 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "1E1E1EFF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -725, -375, 0 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35575,
+			"name": "仿制木屋阁楼天窗",
+			"transform":
+			{
+				"location": [ -545, -405, -100 ],
+				"rotation": [ -3.3087224502121122e-24, 3.6734198463196485e-40, -0.70710678118654735, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ 594.669677734375, -120, 50 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22559,
+			"name": "吧椅",
+			"transform":
+			{
+				"location": [ -20, -175, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 22559,
+			"name": "吧椅",
+			"transform":
+			{
+				"location": [ 55, -175, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35573,
+			"name": "仿古置物架",
+			"transform":
+			{
+				"location": [ 20, -235, 100 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29680,
+			"name": "红木沟渠",
+			"transform":
+			{
+				"location": [ -300, -220, 300 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35571,
+			"name": "木制百叶帘",
+			"transform":
+			{
+				"location": [ 599.99999165534973, -115.00000006083977, 265 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"itemId": 24511,
+			"name": "木制夹层楼板",
+			"transform":
+			{
+				"location": [ -150, -385, 325 ],
+				"rotation": [ -1.1218138223078333e-12, -1.1217904953831426e-12, -0.70711413299129922, 0.70709942930535785 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 45, -550, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ -355, 245, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 6670,
+			"name": "贝拉哈迪亚水晶灯",
+			"transform":
+			{
+				"location": [ -600.00000238418579, 244.99999987832032, 100 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6636,
+			"name": "海滨台灯",
+			"transform":
+			{
+				"location": [ 54.999999999999993, -175, 10 ],
+				"rotation": [ 0, -0, 0.97629600711993347, 0.21643961393810293 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15974,
+			"name": "壁式书柜",
+			"transform":
+			{
+				"location": [ -500, 570, 60 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6636,
+			"name": "海滨台灯",
+			"transform":
+			{
+				"location": [ -20.000000000000007, -175, 10 ],
+				"rotation": [ 0, -0, 0.97629600711993347, 0.21643961393810293 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 44897,
+			"name": "仿制衣柜门",
+			"transform":
+			{
+				"location": [ 129.9999995137548, 565.00486373901367, 195 ],
+				"rotation": [ 1.2708707686215253e-07, -3.9900400146770935e-19, 0.99999999999999167, 6.1232340008074419e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 45, 245, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 44895,
+			"name": "抱石攀岩隔离墙",
+			"transform":
+			{
+				"location": [ -325, -195, 350 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 24512,
+			"name": "木制台阶",
+			"transform":
+			{
+				"location": [ 550, -90, 265 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ -570, 140, -110 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ -355, -550, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -725, -155, 0 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -695, 725, 55 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 445, 245, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 21839,
+			"name": "舞台背板",
+			"transform":
+			{
+				"location": [ 25, 565, 55 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ -75, 555, -110 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ 594.669677734375, 320, 50 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ 130, 725, 335 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -160, 725, 55 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33283,
+			"name": "矮书柜",
+			"transform":
+			{
+				"location": [ -415, 563.59656296567539, 505 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ 420, 725, 55 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28639,
+			"name": "皮革沙发",
+			"transform":
+			{
+				"location": [ 35, -10, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "ACA8A2FF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ 430, 2.2204460492503131e-16, -180 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "B2C4CEFF"
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ 165, 555, -110 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -725, 240, 300 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ -570, -95, -110 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 445, -550, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 45, -150, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ -560, 245.43580627441406, 64.609367370605469 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ 630, 100, -170 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 445, -150, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 45, 640, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ -355, 640, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ -355, -150, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "地板垫",
+			"transform":
+			{
+				"location": [ 445, 640, 595 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 20733,
+			"name": "东洋衣柜",
+			"transform":
+			{
+				"location": [ -425, 555, -110 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ -399.0093994140625, 255, -345 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "B2C4CEFF"
+			}
+		},
+		{
+			"itemId": 29682,
+			"name": "白色屏风",
+			"transform":
+			{
+				"location": [ 430, 400, -180 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "B2C4CEFF"
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ -560, 115.43580627441406, 64.609367370605469 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ -560, 375.43580627441406, 64.609367370605469 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6670,
+			"name": "贝拉哈迪亚水晶灯",
+			"transform":
+			{
+				"location": [ -600.00000238418579, 109.99999987832032, 100 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6670,
+			"name": "贝拉哈迪亚水晶灯",
+			"transform":
+			{
+				"location": [ -600.00000238418579, 369.99999987832035, 100 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ 594.669677734375, 30, 50 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24511,
+			"name": "木制夹层楼板",
+			"transform":
+			{
+				"location": [ 235, -385, 325 ],
+				"rotation": [ -1.1218138223078333e-12, -1.1217904953831426e-12, -0.70711413299129922, 0.70709942930535785 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35571,
+			"name": "木制百叶帘",
+			"transform":
+			{
+				"location": [ -575.00001192092896, 150.00000060839764, 380 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ 594.669677734375, 175, 50 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40630,
+			"name": "仿制月光窗",
+			"transform":
+			{
+				"location": [ 600, 370, 160 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40630,
+			"name": "仿制月光窗",
+			"transform":
+			{
+				"location": [ 600, -50, 160 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40630,
+			"name": "仿制月光窗",
+			"transform":
+			{
+				"location": [ 600, 160, 160 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35571,
+			"name": "木制百叶帘",
+			"transform":
+			{
+				"location": [ 600.00000238418579, 160, 465 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ -70, -230, 300 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ 630, 245, -170 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30397,
+			"name": "破碎拱窗",
+			"transform":
+			{
+				"location": [ 594.669677734375, 465, 50 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 44912,
+			"name": "槛框隔离墙",
+			"transform":
+			{
+				"location": [ -550.00000953674316, 244.99999999999994, -55 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 35571,
+			"name": "木制百叶帘",
+			"transform":
+			{
+				"location": [ -575, 350.00000060839778, 380 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "F9F8F4FF"
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ 630, 390, -170 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32226,
+			"name": "木条隔离墙",
+			"transform":
+			{
+				"location": [ 630, 525, -170 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35559,
+			"name": "双软垫",
+			"transform":
+			{
+				"location": [ 35, -365, 375 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654746 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24513,
+			"name": "木制横梁",
+			"transform":
+			{
+				"location": [ 545, 115, 25 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 24511,
+			"name": "木制夹层楼板",
+			"transform":
+			{
+				"location": [ -525, -385, 325 ],
+				"rotation": [ -0, 0, -0.70710680816052995, 0.70710675421256419 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 7984,
+			"name": "双人羽床",
+			"transform":
+			{
+				"location": [ 160, -410, 335 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37363,
+			"name": "书柜暗门隔离墙",
+			"transform":
+			{
+				"location": [ 545, 400, 280 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 37363,
+			"name": "书柜暗门隔离墙",
+			"transform":
+			{
+				"location": [ 545, 3.5527136788005009e-15, 280 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		},
+		{
+			"itemId": 37363,
+			"name": "书柜暗门隔离墙",
+			"transform":
+			{
+				"location": [ 545, -400, 0 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+				"color": "3D290DFF"
+			}
+		}
+	],
+	"properties":
+	{
+		"entranceLayout": "Far Right Side"
+	}
+}
